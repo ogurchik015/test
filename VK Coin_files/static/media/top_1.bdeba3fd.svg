@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
+	 xmlns:xlink="http://www.w3.org/1999/xlink">
+	<!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+	<title>Group 3</title>
+	<desc>Created with Sketch.</desc>
+	<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="web" transform="translate(-350.000000, -329.000000)" fill-rule="nonzero">
+			<g id="Group-8" transform="translate(350.000000, 323.000000)">
+				<g id="Group-3" transform="translate(0.000000, 6.000000)">
+					<g id="Group-5-Copy" stroke="#3F8AE0" stroke-width="1.8">
+						<circle id="Oval" cx="12" cy="12" r="11.1"></circle>
+					</g>
+					<path
+						d="M11.7667637,15.3668945 L11.7667637,9.37470703 L11.7350254,9.37470703 L10.9288731,9.93330078 C10.6432285,10.1173828 10.4718418,10.1808594 10.2814121,10.1808594 C9.88785743,10.1808594 9.63395118,9.88886719 9.63395118,9.53339844 C9.63395118,9.23505859 9.82438086,9.00019531 10.1481113,8.784375 L11.2526035,8.02265625 C11.6652012,7.75605469 12.0777988,7.59101563 12.4840488,7.59101563 C13.2457676,7.59101563 13.5821934,8.13056641 13.5821934,8.70820313 L13.5821934,15.3668945 C13.5821934,16.077832 13.1759434,16.3444336 12.6744785,16.3444336 C12.1730137,16.3444336 11.7667637,16.077832 11.7667637,15.3668945 Z"
+						id="1" fill="#3F8AE0"></path>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
